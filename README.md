@@ -1,5 +1,5 @@
-# Reencontra-sp-bigdata
-Reencontra SP — Global Solution FIAP: pipeline de dados com Airflow e Databricks.
+# Reencontro-sp-bigdata
+Reencontro SP — Global Solution FIAP: pipeline de dados com Airflow e Databricks.
 
 ## Arquitetura do pipeline
 
@@ -171,7 +171,7 @@ As células complementares de usabilidade reproduzem os três resultados de test
 
 No notebook `03_testes_qualidade_sp`, executar os sete casos artificiais de validação. O resultado esperado é um aprovado e seis rejeitados. Esses casos utilizam views temporárias e não alimentam as camadas reais.
 
-Se disponível no repositório, o notebook `00_fontes_reencontra_sp` pode ser executado após o upload para conferir fontes, arquivos e amostras, sem modificar as tabelas.
+
 
 ### 10. Gerar os dados para o MVP
 
